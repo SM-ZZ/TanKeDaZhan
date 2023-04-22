@@ -586,4 +586,3 @@ class Yinyue:
 if __name__ == '__main__':
 
     MainGame().startGame()
-    MainGame().wz_sl()
